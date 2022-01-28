@@ -1,0 +1,239 @@
+<mjml>
+    <mj-body background-color="#E4E6EB">
+        <mj-section
+            background-color="#fff"
+            padding-bottom="0px"
+            padding-top="0px"
+            border-bottom="1px dashed #eee"
+        >
+            <mj-column vertical-align="top" width="100%">
+                <mj-image
+                    src="image/Logo Email.png"
+                    alt=""
+                    align="center"
+                    border="none"
+                    width="170px"
+                    padding-left="0px"
+                    padding-right="0px"
+                    padding-left="0px"
+                    padding-bottom="25px"
+                    padding-top="20px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section
+            background-color="#fff"
+            padding-bottom="0px"
+            padding-top="0px"
+        >
+            <mj-column vertical-align="top" width="100%">
+                <mj-text
+                    align="center"
+                    color="#000"
+                    font-size="30px"
+                    font-weight="bold"
+                    font-family="Playfair Display,Times New Roman, serif"
+                    padding-left="25px"
+                    padding-right="25px"
+                    padding-top="30px"
+                    padding-bottom="30px"
+                >
+                    Bukti Pembayaran Anda!!
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section
+            background-color="#fff"
+            padding-bottom="0px"
+            padding-top="0px"
+        >
+            <mj-column vertical-align="top" width="100%">
+                <mj-image
+                    src="image/banner mail.png"
+                    alt=""
+                    align="center"
+                    border="none"
+                    width="550px"
+                    padding-left="0px"
+                    padding-right="0px"
+                    padding-bottom="0px"
+                    padding-top="0px"
+                />
+            </mj-column>
+        </mj-section>
+        <mj-section
+            background-color="#fff"
+            padding-bottom="20px"
+            padding-top="20px"
+        >
+            <mj-column
+                vertical-align="middle"
+                width="100%"
+                border-bottom="1px dashed #eee"
+                padding-bottom="30px"
+            >
+                <mj-text
+                    align="left"
+                    color="#000"
+                    font-size="18px"
+                    line-height="28px"
+                    font-family="Assistant,Hevaltica,Arial,sans-serif"
+                    padding-left="25px"
+                    padding-right="25px"
+                >
+                    Hai Allpha
+                    <br /><br />
+                    Daftar Pembelian barang kamu berhasil di cetak.
+                    <br />
+                    Booking ID <strong>#21793</strong>
+                </mj-text>
+                <mj-table
+                    align="left"
+                    color="#000"
+                    font-size="18px"
+                    line-height="28px"
+                    font-family="Assistant,Hevaltica,Arial,sans-serif"
+                    padding-left="25px"
+                    padding-right="25px"
+                    padding-bottom="30px"
+                >
+                    <tr>
+                        <td colspan="3">Product Detail</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Nama Barang</strong></td>
+                        <td style="text-align: right">Sweter</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Harga Barang</strong></td>
+                        <td style="text-align: right">Rp 50000</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Waktu Pembelian</strong></td>
+                        <td style="text-align: right">Saturday,20,jan,2021</td>
+                    </tr>
+                </mj-table>
+                <mj-table
+                    align="left"
+                    color="#000"
+                    font-size="18px"
+                    line-height="28px"
+                    font-family="Assistant,Hevaltica,Arial,sans-serif"
+                    padding-left="25px"
+                    padding-right="25px"
+                >
+                    <tr>
+                        <td colspan="3">Costumers</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Nama Pembeli</strong></td>
+                        <td style="text-align: right">Allpha</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Email</strong></td>
+                        <td style="text-align: right">Allpha@gmail.com</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Nomor Hp</strong></td>
+                        <td style="text-align: right">082329547489</td>
+                    </tr>
+                </mj-table>
+
+                <mj-table
+                    align="left"
+                    color="#000"
+                    font-size="18px"
+                    line-height="28px"
+                    font-family="Assistant,Hevaltica,Arial,sans-serif"
+                    padding-left="25px"
+                    padding-right="25px"
+                    padding-bottom="25px"
+                >
+                    <tr>
+                        <td><strong>Alamat</strong></td>
+                    </tr>
+                    <tr>
+                        <td style="text-align: left">
+                            Dusun Sindangkasih RT 04/01 Desa Purwodadi Kecamatan
+                            Patimuan Kabupaten Cilacap Jawa Tengah 53264
+                        </td>
+                    </tr>
+                </mj-table>
+                <mj-button
+                    align="center"
+                    font-size="18px"
+                    background-color="#ff4444"
+                    border-radius="5px"
+                    color="#fff"
+                    font-family="Assistant,Hevaltica,Arial,sans-serif"
+                >
+                    Check Detail
+                </mj-button>
+            </mj-column>
+        </mj-section>
+        <mj-section
+            background-color="#fff"
+            padding-bottom="0px"
+            padding-top="0px"
+        >
+            <mj-column vertical-align="middle" width="100%">
+                <mj-text
+                    align="left"
+                    color="#000"
+                    font-size="18px"
+                    line-height="28px"
+                    font-family="Assistant,Hevaltica,Arial,sans-serif"
+                    padding-left="25px"
+                    padding-right="25px"
+                >
+                    Butuh Bantuan ?
+                    <br />
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section
+            background-color="#fff"
+            padding-bottom="20px"
+            padding-top="0px"
+        >
+            <mj-column>
+                <mj-table>
+                    <tr>
+                        <td style="width: 50px">
+                            <img src="image/chat mail.png" width="50px" />
+                        </td>
+                        <td
+                            style="
+                                font-size: 15px;
+                                padding-left: 10px;
+                                color: #000;
+                                font-family: Assitant, Hevaltica, Arial,
+                                    sans-serif;
+                            "
+                        >
+                            Support@Delta.Store
+                            <br />
+                            0823-2954-7489
+                        </td>
+                    </tr>
+                </mj-table>
+            </mj-column>
+        </mj-section>
+        <mj-section padding-bottom="30px" padding-top="5px">
+            <mj-column>
+                <mj-text
+                    align="center"
+                    color="#888893"
+                    font-size="15px"
+                    font-family="Assistant,Helvetica,Arial, sans-serif"
+                    padding-left="25px"
+                    padding-right="25px"
+                    padding-bottom="0px"
+                    padding-top="20px"
+                >
+                    2021 Delta Copyright All Right Reversed.
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
